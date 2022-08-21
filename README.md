@@ -8,7 +8,7 @@
 <h4><img align="center" src="https://raw.githubusercontent.com/efecanxrd/efecanxrd/main/images/xe.gif" width="30"> Install Libraries </h4>
 <h5> The project uses only 1 library. You can install the library by typing 'pip install opencv-python' in the terminal </h5>
 <h2> How this is working? </h2>
-<h4> Our algorithm reconstructing a random image into the input image. I gave sample images. You can find the information about Genetic Algorithm below. You might need to translate the page <h4>
+<h4> Our algorithm reconstructing a random image into the input image. I gave sample images. Please use 20x20 images for best experience. Besides, you can find the information about Genetic Algorithm below. You might need to translate the page <h4>
 
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@efecanxrd/genetic-algorithm-nedir-ne-i%CC%87%C5%9Fe-yarar-cac86be1dea4)
   
