@@ -4,9 +4,9 @@
 <img src="https://i.imgur.com/qHAcfhX.gif">
 <h3> Setup The Project </h3>
 <h3><img align="center" src="images/xe.gif" width="30"><img align="center" src="https://raw.githubusercontent.com/efecanxrd/efecanxrd/main/images/xe.gif" width="30"> Install Python <h3>
-<p> I recommend that you install Python3.8x </p>
+<h5>I recommend that you install Python3.8x </h5>
 <h3><img align="center" src="https://raw.githubusercontent.com/efecanxrd/efecanxrd/main/images/xe.gif" width="30"> Install Libraries </h3>
-<p> Project uses only 1 library. You can install the library by typing ```pip install opencv-python``` in the terminal </p>
+<h5> Project uses only 1 library. You can install the library by typing 'pip install opencv-python' in the terminal </h5>
 
 <h2> How this is working? </h2>
 Our program is running on jupyter notebook. We train and classify the dataset with Keras models
