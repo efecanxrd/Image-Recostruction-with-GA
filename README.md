@@ -3,7 +3,7 @@
 <h3> Classifying chess pieces using tensorflow keras </h3>
 <img src="https://i.imgur.com/qHAcfhX.gif">
 <h3> Setup The Project </h3>
-<h4><img align="center" src="images/xe.gif" width="30"><img align="center" src="https://raw.githubusercontent.com/efecanxrd/efecanxrd/main/images/xe.gif" width="30"> Install Python <h4>
+<h3><img align="center" src="images/xe.gif" width="30"><img align="center" src="https://raw.githubusercontent.com/efecanxrd/efecanxrd/main/images/xe.gif" width="30"> Install Python <h3>
 <p> I recommend that you install Python3.8x </p>
 <h3><img align="center" src="https://raw.githubusercontent.com/efecanxrd/efecanxrd/main/images/xe.gif" width="30"> Install Libraries </h3>
 <p> Project uses only 1 library. You can install the library by typing ```pip install opencv-python``` in the terminal </p>
