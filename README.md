@@ -9,5 +9,6 @@
 <h5> The project uses only 1 library. You can install the library by typing 'pip install opencv-python' in the terminal </h5>
 <h2> How this is working? </h2>
 <h5> Our algorithm reconstructing a random image into the input image. I gave sample images. You can find the information about Genetic Algorithm below. <h5>
+
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@efecanxrd)
   
